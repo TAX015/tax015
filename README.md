@@ -1,7 +1,7 @@
 ## Hello There 👋
-<img alt="GitHub stats" align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=tax015" />
+<img alt="GitHub stats" align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=tax015&theme=transparent&show_icons=true" />
 
-<img alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tax015&layout=compact" />
+<img alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tax015&layout=compact&theme=transparent" />
 <!--
 **TAX015/tax015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
